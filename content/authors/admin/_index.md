@@ -15,7 +15,7 @@ role: PhD in Operations Management
 # Organizations/Affiliations
 organizations:
 - name: The University of Texas at Dallas
-  url: ""
+  url: "https://utdallas.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include digital economy, behavior operation management, smart operations and logistics network.
