@@ -7,7 +7,7 @@
   name = ""
   url = ""
   weight = 1
-  {{< figure src="/media/utd.png" alt = "UTD Logo" height = 40px; width = 40px >}}
+  pre = "<img src='/img/utd.png' style='height: 40px; width: 40px;' alt='UTD Logo'>"
 
 [[main]]
   name = "Home"
