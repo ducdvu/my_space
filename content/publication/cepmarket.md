@@ -1,11 +1,11 @@
 
 +++
-title = "Identifying and Evaluating New Market Opportunities with Capacity Expansion Model"
+title = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 date = "2017-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Holger Teichgraeber**","Adam Brandt"]
+authors = ["**Duc D. Vu**","Xuying Zhao","Kathryn E. Stecke"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = "Stanford Clean Energy Finance Forum"
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
-abstract = "The shift of the electricity system from fossil fuels to renewable energy will require major investments in power generation, transmission lines, energy storage, and demand response technologies. This shift presents large investment opportunities. In this paper, we investigate engineering-based capacity expansion models for high renewable futures, examining the implied capital investment requirements of these scenarios. In particular, we examine the United States, as an example of the value of this approach for anticipating investment opportunities and identifying those with the highest potential for being economically viable. For the United States, key transformations in the electricity sector with respect to capital requirement include:"
+abstract = "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
