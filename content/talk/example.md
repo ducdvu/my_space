@@ -1,14 +1,14 @@
 ---
 title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+event: 2020 INFORMS Annual Meeting
+event_url: http://meetings2.informs.org/wordpress/nationalharbor2020/
 
-location: Source Themes HQ
+location: Gaylord National Resort & Convention Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 201 Waterfront St  20745
+  city: Forest Heights
+  region: MD
+  postcode: '20745'
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
