@@ -4,6 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = ""
+  url = ""
+  weight = 1
+  {{< figure src="/media/utd.png" alt = "UTD Logo" height = 40px; width = 40px >}}
+
+[[main]]
   name = "Home"
   url = "#about"
   weight = 10
