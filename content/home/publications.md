@@ -46,11 +46,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-   color = "navy"
+  # color = "navy"
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
@@ -58,6 +58,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+  text_color = "orange"
   
 [advanced]
  # Custom CSS. 
