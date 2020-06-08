@@ -21,3 +21,5 @@ menu_title = "#ffffff" #"#2b2b2b"
 home_section_odd = "rgb(255, 255, 255)"
 #home_section_even = "rgb(247, 247, 247)"
 home_section_even = "rgb(218, 215, 203)"
+
+body_text = "#f75a03"
