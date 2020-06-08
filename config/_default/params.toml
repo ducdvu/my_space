@@ -11,12 +11,13 @@
 
 # Choose a theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
+#   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "my_theme" #"minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -97,7 +98,7 @@ address = {street = "800 West Campbell Rd", city = "Richardson", region = "TX", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.985043", longitude = "-96.747032"}
+coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -111,14 +112,14 @@ coordinates = {latitude = "32.985043", longitude = "-96.747032"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
+contact_links = []
   #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "envelope", icon_pack = "fab", name = "", link = "duc.vu@utdallas.edu"},
-  ]
+  # {icon = "envelope", icon_pack = "fab", name = "", link = "duc.vu@utdallas.edu"},
+  #]
 
 ############################
 ## Social
@@ -271,7 +272,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
