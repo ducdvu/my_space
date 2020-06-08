@@ -1,10 +1,10 @@
 +++
-title = "Towards improved medical image segmentation using deep learning"
+title = "AAAAAAAAAAAAAAAAAAAAAAAAAAA"
 date = "2019-09-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Nabila Abraham**", "Naimul Mefraz Khan"]
+authors = ["**Duc D. Vu**","Xuying Zhao","Kathryn E. Stecke"]]
 
 # Publication type.
 # Legend:
@@ -25,7 +25,7 @@ publication = "IEEE Access."
 
 
 
-abstract = "We explore the use of the Focal Tversky Loss function "
+abstract = "AAAAAAAAAAAAAAn "
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
@@ -68,6 +68,6 @@ image = "ftl.png"
 #caption = "My caption :smile:"
 
 +++
-A data-driven method to reduce training sample size to mitigate careful model tuning required when using transfer learning for Alzheimer's disease classification.  
+A data-driven method to bbbbbbbbbbbbbb. 
 
 In *IEEE Access*, 2019. 
