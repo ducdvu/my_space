@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include digital economy, behavior operation management, smart operations and logistics network.
 
 interests:
-- Digital Economy
+- course: Digital Economy
 - Behavior Operations Management
 - Smart Operations & Logistics Network
 
