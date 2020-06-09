@@ -66,16 +66,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-# Past TA-ships at Ryerson University:
-# <h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
-
 + OPRE 3310 - Operations Management  
   * Core undergraduate course with 70 students.
   * Full responsibility for all instruction.
   * Instructor Evaluation: 4/5.
 
-# <h4> Masters of Digital Media (MDM) </h4>
-
-# + DG8002 - Digital Media Environments *(Fall 2018)*
-#  * HTML, CSS, JavaScript, Python
