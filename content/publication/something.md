@@ -1,6 +1,6 @@
 
 +++
-title = "Second working paper."
+title = "Second working paper"
 date = "2017-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
