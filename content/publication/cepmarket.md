@@ -1,11 +1,11 @@
 
 +++
-title = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+title = "First working paper"
 date = "2017-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Duc D. Vu**","aaaa","bbbb"]
+authors = ["**Duc D. Vu**","Second Author","Third Author"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ authors = ["**Duc D. Vu**","aaaa","bbbb"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Stanford Clean Energy Finance Forum"
-#publication_short = "ISBI"
+publication = "Manufacturing and Services Operation Management"
+#publication_short = "MSOM"
 
 # Abstract and optional shortened version.
-abstract = "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB"
+abstract = "This is our firt working paper."
 
 # Featured image thumbnail (optional)
 #image_preview = "static/img/ftl.png"
