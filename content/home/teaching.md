@@ -6,7 +6,7 @@ widget = "custom"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Teaching"
+title = "Teaching Experience"
 subtitle = ""
 
 [content]
@@ -67,17 +67,15 @@ subtitle = ""
  css_class = ""
 +++
 
-Past TA-ships at Ryerson University:
-<h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
+# Past TA-ships at Ryerson University:
+# <h4> Department of Electrical, Computer and Biomedical Engineering (ECBE) </h4>
 
-+ ELE202 - Electric Circuit Analysis  *(Winter 2018, 2019)*
-  * Lab bench
-+ BME802 - Human Computer Interaction *(Winter 2018)* 
-  * MATLAB
-+ ELE532 - Signals and Systems 1    *(Fall 2017)*
-  * MATLAB
++ OPRE 3310 - Operations Management  
+  * Core undergraduate course with 70 students.
+  * Full responsibility for all instruction.
+  * Instructor Evaluation: 4/5.
 
-<h4> Masters of Digital Media (MDM) </h4>
+# <h4> Masters of Digital Media (MDM) </h4>
 
-+ DG8002 - Digital Media Environments *(Fall 2018)*
-  * HTML, CSS, JavaScript, Python
+# + DG8002 - Digital Media Environments *(Fall 2018)*
+#  * HTML, CSS, JavaScript, Python
