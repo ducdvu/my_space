@@ -1,5 +1,5 @@
 ---
-title: My first talk
+title: "My first talk"
 event: 2020 INFORMS Annual Meeting
 event_url: http://meetings2.informs.org/wordpress/nationalharbor2020/
 
