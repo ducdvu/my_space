@@ -66,6 +66,10 @@ highlight = true
 #[header]
 #image = "ftl.png"
 #caption = "My caption :smile:"
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 
 +++
 
