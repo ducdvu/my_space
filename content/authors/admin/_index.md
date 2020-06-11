@@ -72,6 +72,6 @@ user_groups:
 
 I am a Ph.D. candidate in Operations Management at The University of Texas at Dallas. I am broady interested in using analytical tools to solve emerging problems in digital economy, behavior operations management, smart operations & logicstics networks.
 
-Methodologically, I am interested in (i) game theory modeling, (ii) stochastic programming & approximations, and (iii) machine learning.
+Methodologically, I am interested in (i) game theory modeling, (ii) stochastic programming & approximations, and (iii) experimental design.
 
 I am on the job market for 2021-2022.
