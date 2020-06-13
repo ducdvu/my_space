@@ -13,6 +13,7 @@
   name = "Home"
   url = "#about"
   weight = 10
+  pre = "<i class='fas fa-terminal'>&nbsp;</i>"
 
 [[main]]
   name = "Research"
