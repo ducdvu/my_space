@@ -4,12 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = ""
-  url = ""
-  weight = 1
-  #pre = "<img src='/img/utd.png' style='vertical-align: middle; ; height: 60px; width: 60px;' alt='UTD Logo'>"
-  #pre = "<i class = 'custom utd' >&nbsp;</i>"
-[[main]]
   name = "Home"
   url = "#about"
   weight = 10
