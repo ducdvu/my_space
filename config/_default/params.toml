@@ -290,6 +290,3 @@ plugins_js  = []
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
   
-  # Diplay a logo in navigation bar rather than title (optional).
-  #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = "utd.png"
