@@ -7,9 +7,9 @@
   name = ""
   url = ""
   weight = 1
-  #pre = "<img src=' /img/utd.png' style='align: center; float:right; height: 50px; width: 50px;' alt='UTD Logo'>"
-  {{< figure src="/img/utd.png" alt='UTD Logo'>}}
-   #pre = "<i class = 'custom utd' >&nbsp;</i>"
+  pre = "<img src=' /img/utd.png' style='align: center; float:right; height: 50px; width: 50px;' alt='UTD Logo'  display: block;
+  margin-left: auto; margin-right: auto >"
+  #pre = "<i class = 'custom utd' >&nbsp;</i>"
 [[main]]
   name = "Home"
   url = "#about"
