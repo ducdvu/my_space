@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = ""
+title = pre = "<img src=' /img/utd.png' style='align: center; float:right; height: 50px; width: 50px;' alt='UTD Logo'>"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
